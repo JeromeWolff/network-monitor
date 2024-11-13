@@ -1,4 +1,4 @@
-# Network Packet Sniffer
+# network-monitor
 
 A simple Rust application that captures and monitors network packets on a specified network interface, periodically
 printing and saving packet metrics to a JSON file.
