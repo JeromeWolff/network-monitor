@@ -19,8 +19,8 @@ printing and saving packet metrics to a JSON file.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/network-packet-sniffer.git
-   cd network-packet-sniffer
+   git clone https://github.com/JeromeWolff/network-monitor.git
+   cd network-monitor
    ```
 
 2. Build the project:
